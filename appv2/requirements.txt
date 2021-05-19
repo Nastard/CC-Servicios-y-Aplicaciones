@@ -4,4 +4,3 @@ Numpy
 svgwrite
 pymongo
 pandas
-unittest
