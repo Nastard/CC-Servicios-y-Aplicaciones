@@ -1,0 +1,7 @@
+Pillow
+Flask
+Numpy
+svgwrite
+pymongo
+pandas
+unittest
