@@ -11,7 +11,7 @@ Realización mediante AirFlow.  Los archivos están en la raíz del repositorio 
   * [appv1](https://github.com/Nastard/CC-Servicios-y-Aplicaciones/tree/main/appv1): Archivos de la aplicación 1, mostrando la predicción del modelo ARIMA.
   * [appv2](https://github.com/Nastard/CC-Servicios-y-Aplicaciones/tree/main/appv2): Archivos de la aplicación 2, mostrando la predicción del modelo Autoregression.
   * [ar_model](https://github.com/Nastard/CC-Servicios-y-Aplicaciones/tree/main/ar_model): Archivos para realizar la predicción usando Autoregression.
-  * [arima_model](https://github.com/Nastard/CC-Servicios-y-Aplicaciones/tree/main/arima_model): Archivos para realizar la predicción usando Autoregression.
+  * [arima_model](https://github.com/Nastard/CC-Servicios-y-Aplicaciones/tree/main/arima_model): Archivos para realizar la predicción usando ARIMA.
   
 Grafo generado:
 ![grafo](https://raw.githubusercontent.com/Nastard/CC-Servicios-y-Aplicaciones/main/img/grafo.png)
