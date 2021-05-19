@@ -1,5 +1,5 @@
 # CC-Servicios-y-Aplicaciones
->Repositorio de prácticas de la asignatura  CC-Servicios y Aplicaciones.
+>Repositorio de prácticas de la asignatura  CC-Servicios y Aplicaciones, curso 2020-2021.
 
 ## Práctica1
 Falta por subir.
