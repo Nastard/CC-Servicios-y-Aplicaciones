@@ -1,0 +1,7 @@
+Consulta total número de delitos:
+db.sacramento.aggregate({$group:{_id:'$crimedescr', count:{$sum:1}}})
+
+Consulta delitos en franja horaria:
+db.sacramento.find().forEach(function(doc) { doc.date = new Date(doc.cdatetime); db.sacramento.save(doc)} )
+db.sacramento.update({}, {$unset: {cdatetime:1}}, false, true);
+db.sacramento.aggregate({$group:{_id:{$hour:"$date"}, count:{$sum:1}}})
